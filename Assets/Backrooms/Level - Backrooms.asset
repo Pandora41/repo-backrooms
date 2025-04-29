@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ResourcePath: Backrooms
   NarrativeName: Backrooms
-  ModuleAmount: 15
-  PassageMaxAmount: 5
+  ModuleAmount: 4
+  PassageMaxAmount: 1
   HasEnemies: 1
   ConnectObject: {fileID: 1773616867835620, guid: 69d2a143e127c7e4fb05eaa1848b53b5, type: 3}
   BlockObject: {fileID: 0}
@@ -26,13 +26,9 @@ MonoBehaviour:
   LoadingGraphic03: {fileID: 21300000, guid: 5d8ba97f31ba65a4196168641735dc3b, type: 2}
   ModulesNormal1:
   - {fileID: 1043431202649512, guid: 3ad1e216b9d3d2246b94c147c343122a, type: 3}
-  - {fileID: 1043431202649512, guid: 4e5e841661fcbe142a4fa40dd487df8e, type: 3}
-  - {fileID: 1351990303590346, guid: 87493fe794d71014ca959f6996123bb7, type: 3}
   ModulesPassage1:
   - {fileID: 1635811341424794, guid: 88009e8e456ef5243a6e3c8ecb12ca5d, type: 3}
-  - {fileID: 1152053302226495, guid: 670f70d21478a2d49bb2e59e9ad180d1, type: 3}
-  ModulesDeadEnd1:
-  - {fileID: 1151572922889489, guid: 9899a5c5a01042341b76735a789c7c40, type: 3}
+  ModulesDeadEnd1: []
   ModulesExtraction1: []
   ModulesNormal2:
   - {fileID: 1043431202649512, guid: 4e5e841661fcbe142a4fa40dd487df8e, type: 3}
